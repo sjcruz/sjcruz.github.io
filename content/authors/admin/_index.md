@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 
+title: Seleni Cruz
 
 # Name pronunciation (optional)
 name_pronunciation: 

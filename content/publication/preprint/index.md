@@ -2,7 +2,7 @@
 title: "Climate variation and small-scale fisheries"
 authors:
 - admin
-date: " "
+date: "2024-06-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +23,7 @@ abstract: Small-scale fisheries (SSF) are increasingly exposed to natural and an
 summary: Small-scale fisheries (SSF) are increasingly exposed to natural and anthropogenic stressors, including climatic shocks, which contribute to high interannual and seasonal variability in catch and income. Here I explore adaptation strategies withing small-scale fishing communities.
 
 tags:
-- small-scale fisheries, climate variation, ENSO, labor reallocation
+- El Ni~\no, labor reallocation, divesification
 
 featured: true
 
@@ -32,12 +32,13 @@ links:
 #  url: http://example.org
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_dataset: '#'
+
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
