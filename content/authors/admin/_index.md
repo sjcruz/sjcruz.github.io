@@ -71,7 +71,6 @@ education:
     summary: 
 ---
 
-## About Me
 
-Welcome to my site! I am a PhD Candidate at the Birkenbach-Oremus Lab at the University of Delaware. My research focuses on the intersection among natural resource and development economics, climate change, and fisheries management. I leverage econometric techniques and bioeconomic modeling to explore human-ocean interactions in the face of climate change.
+Welcome to my site! I am a PhD Candidate at the [Birkenbach-Oremus Lab](https://birkenbach-oremus-lab.github.io/website/) at the University of Delaware. My research focuses on the intersection among natural resource and development economics, climate change, and fisheries management. I leverage econometric techniques and bioeconomic modeling to explore human-ocean interactions in the face of climate change.
 

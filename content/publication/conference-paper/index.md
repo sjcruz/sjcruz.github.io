@@ -1,40 +1,44 @@
 ---
-title: 'An example conference paper'
+title: 'Selective harvesting under a changing climate'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Anna Birkenbach
+  - Kimberly Oremus 
+  - Jonathan Cohen 
+  - Richard Wong
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 
+  - 
 
-date: '2013-07-01T00:00:00Z'
+date: 'Jun 22, 2024'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+#publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+#publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+#publication: In *Hugo Blox Builder Conference*
+#publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Feedback mechanisms between fishing decisions and reproductive dynamics pose a challenge for effective fisheries management. Size-dependent pricing is common in fisheries and can result in the selective harvesting of a population subset, often differentiated by size or sex. In the mid-Atlantic blue crab fisheries, research suggests that market incentives to harvest large male  crabs may negatively affect population dynamics by limiting sperm and operational sex ratios. In this paper, we simulate the effect of selective harvesting on the Delaware Bay blue crab population and compare the behavioral response of fishers to hypothetical new gear/catch limits, seasonal closures, and other policy scenarios. We develop a unique bioeconomic model that links size-dependent market incentives to population productivity in order to assess how policy scenarios could affect the sustainability of the fishery. Crab growth is simulated using an individual-based population model, which we link to an economic model in which fishers maximize the net present value of harvest by choosing levels of effort for each market category distinguished by shell status, size, and sex. Our model captures intra-seasonal dynamics by incorporating different marginal costs of fishing, prices, and gears used at different points in the season. Our policy scenarios, which are informed by recent management changes in the Chesapeake Bay to protect declining blue crab populations, are designed to explore the balance and trade-offs between economic and biological sustainability in this important fishery.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We use a bioeconomic model to explore the tradeoffs between economic and biological sustinability of the blue crab fishery under a changing climate.
 
 tags:
-  - Large Language Models
+  - bioeconomic model, fisheries, climate change, blue crabs
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,14 +48,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+#url_pdf: ''
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -84,4 +88,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+#Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/#writing-markdown-latex/).
