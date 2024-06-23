@@ -56,12 +56,12 @@ sections:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - event
+          #- event
     design:
       view: article-grid
       columns: 1
   - block: collection
-    id: news
+   # id: news
     content:
       title: Recent News
       subtitle: ''
