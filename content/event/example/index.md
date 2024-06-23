@@ -1,8 +1,8 @@
 ---
-title: The International Institute of Fisheries Economics & Trade 2024 Conference, Penang Malaysia
+#title: The International Institute of Fisheries Economics & Trade 2024 Conference, Penang Malaysia
 
-event: The International Institute of Fisheries Economics & Trade 2024 Conference
-event_url: https://www.iifet2024.org/index.html
+#event: The International Institute of Fisheries Economics & Trade 2024 Conference
+#event_url: https://www.iifet2024.org/index.html
 
 #location: 
 #address:
@@ -12,18 +12,18 @@ event_url: https://www.iifet2024.org/index.html
 #  postcode: '94305'
 #  country: United States
 
-summary: 
-authors:
-  - admin
+#summary: 
+#authors:
+#  - admin
 
-tags: []
+#tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+#featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#  focal_point: Right
 
 #links:
 #  - icon: twitter
