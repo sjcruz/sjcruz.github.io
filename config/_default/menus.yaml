@@ -7,12 +7,12 @@ main:
   - name: About
     url: /
     weight: 10
-  - name: CV
-    url: experience/
-    weight: 20
+  #- name: CV
+  #  url: experience/
+  #  weight: 11
   - name: Research
     url: /#papers
-    weight: 11
+    weight: 13
 #  - name: Publications
 #    url: /#talks
 #    weight: 12
