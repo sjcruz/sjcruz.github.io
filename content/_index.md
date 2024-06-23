@@ -51,23 +51,13 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
-    id: talks
-    content:
-      title: Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: citation
-      columns: 1
-  - block: collection
    # id: news
     content:
       title: Recent News
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: citation
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
