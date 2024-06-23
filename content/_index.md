@@ -47,7 +47,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: FALSE
+        exclude_featured: TRUE
       view: article-grid
       columns: 2
   - block: collection

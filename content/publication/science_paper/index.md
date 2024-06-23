@@ -29,7 +29,7 @@ publication_short: ""
 abstract: With many fish populations around the world overfished (1), countries are increasingly passing laws to prevent overfishing and rebuild depleted stocks (2–4), an objective adopted in the UN Sustainable Development Goals. However, some elected officials (5), scientists (6), and industry groups in the US and Europe (7, 8) have questioned whether such policies have gone too far, resulting in “underfishing,” to the economic detriment of fishing communities. This idea is influencing debate over reauthorizing the US Magnuson-Stevens Act (MSA), which shares key features with fishing policies in the European Union (EU) and Canada and is regarded internationally as a benchmark fishing law. Analyzing two decades of data on 170 US fish stocks, we find that the reasons some species are fished less than others are varied, and the MSA is only sometimes the primary factor. In many cases, fishers are fishing less of a species because they find it unprofitable.
 
 # Summary. An optional shortened abstract.
-summary:  We attempt to define "underfishing" and use qualitative and quantitative data to measure the prevelace of this phenomen on US fish stocks.
+summary:  We attempt to define "underfishing" and use a mixed-method approach to measure the prevelace of this phenomen on US fish stocks.
 tags:
 - Source Themes
 featured: false
