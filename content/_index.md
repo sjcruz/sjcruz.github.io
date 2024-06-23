@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Seleni Cruz"
 date: 2022-10-24
 type: landing
 
@@ -40,17 +40,16 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 1
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
-      text: ""
       filters:
         folders:
           - publication
-        exclude_featured: true
-    design:
-      view: citation
+        exclude_featured: FALSE
+      view: article-grid
+      columns: 2
   - block: collection
     id: talks
     content:
