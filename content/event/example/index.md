@@ -1,7 +1,7 @@
 ---
-title: IIFET 2024, Penang Malaysia
+title: The International Institute of Fisheries Economics & Trade 2024 Conference, Penang Malaysia
 
-event: The International Institute of Fisheries Economics & Trade 2024 conference
+event: The International Institute of Fisheries Economics & Trade 2024 Conference
 event_url: https://www.iifet2024.org/index.html
 
 #location: 
