@@ -7,7 +7,7 @@ main:
   - name: About
     url: /
     weight: 10
-- name: CV
+  - name: CV
     url: experience/
     weight: 20
   - name: Research
