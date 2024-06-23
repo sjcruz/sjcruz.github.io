@@ -53,10 +53,10 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Upcoming Talks
       filters:
         folders:
-          #- event
+          - event
     design:
       view: article-grid
       columns: 1
