@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: "Seleni Cruz"
-date: 2022-10-24
+date: 2024-06-22
 type: landing
 
 design:
@@ -13,7 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
+      text: "Seleni Cruz"
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
