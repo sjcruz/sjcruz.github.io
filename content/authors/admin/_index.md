@@ -51,7 +51,7 @@ interests:
   - Fisheries
 
 education:
-  - area: Environmental Economics
+  - area: PhD Environmental Economics
     institution: University of Delaware
     date_start: 
     date_end: 2025
@@ -59,12 +59,12 @@ education:
     button:
       text: 
       url:
-  - area: Economics and Applied Econometrics
+  - area: MSc Economics and Applied Econometrics
     institution: University of Delaware
     date_start:
     date_end: 2022
     summary: 
-  - area: Environmantal Science and Management
+  - area: MSc Environmantal Science and Management
     institution: University of California Santa Barbara
     date_start: 
     date_end: 2019
