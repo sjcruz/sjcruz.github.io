@@ -31,7 +31,10 @@ abstract: With many fish populations around the world overfished (1), countries 
 # Summary. An optional shortened abstract.
 summary:  We attempt to define "underfishing" and use a mixed-method approach to measure the prevelace of this phenomen on US fish stocks.
 tags:
-- Source Themes
+- underfishing 
+- fisheries 
+- qualitative methods 
+- quantitative methods
 featured: false
 
 # links:
