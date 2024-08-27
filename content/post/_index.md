@@ -1,4 +1,4 @@
 ---
-title: Posts
+title: Post
 view: citation
 ---
