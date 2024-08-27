@@ -30,14 +30,14 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: envelope
     url: 'mailto:seleni@udel.edu'
-    label: E-mail
+    label: Email me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=-WzkFMEAAAAJ&hl=en
-     - icon: brands/linkedin
+  - icon: brands/linkedin
     url: https://www.linkedin.com/in/seleni-cruz-64b3b391/
-- icon: brands/x
+  - icon: brands/x
     url: https://twitter.com/SeleniCruz
   - icon: brands/github
     url: https://github.com/sjcruz
