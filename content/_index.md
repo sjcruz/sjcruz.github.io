@@ -55,13 +55,11 @@ sections:
     content:
       title: News
       # Page type to display. E.g. post, talk, publication...
-      page_type: talk
+      page_type: publication
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
       filters:
-        folders: 
-          - post
         exclude_featured: false
         exclude_future: false
         exclude_past: false
