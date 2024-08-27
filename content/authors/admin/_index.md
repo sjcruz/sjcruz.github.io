@@ -32,17 +32,17 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:seleni@udel.edu'
-    label: E-mail Me
-  - icon: brands/x
+    label: E-mail
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=-WzkFMEAAAAJ&hl=en
+     - icon: brands/linkedin
+    url: https://www.linkedin.com/in/seleni-cruz-64b3b391/
+- icon: brands/x
     url: https://twitter.com/SeleniCruz
   - icon: brands/github
     url: https://github.com/sjcruz
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/seleni-cruz-64b3b391/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=-WzkFMEAAAAJ&hl=en
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0001-8778-4474
+ # - icon: academicons/orcid
+ #   url: https://orcid.org/0000-0001-8778-4474
 
 interests:
   - Resource economics
@@ -64,7 +64,7 @@ education:
     date_start:
     date_end: 2022
     summary: 
-  - area: MSc Environmantal Science and Management
+  - area: Ma Environmantal Science and Management
     institution: University of California Santa Barbara
     date_start: 
     date_end: 2019
