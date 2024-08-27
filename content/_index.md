@@ -61,7 +61,7 @@ sections:
       # Filter on criteria
       filters:
         folders: 
-          -post
+          - post
         exclude_featured: false
         exclude_future: false
         exclude_past: false
