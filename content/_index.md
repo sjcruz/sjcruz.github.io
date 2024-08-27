@@ -51,20 +51,17 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
-   # id: news
+    id: news
     content:
       title: News
-      subtitle: ''
-      text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: talk
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
       filters:
-        author: ""
-        category: ""
-        tag: ""
+        folders: 
+          -post
         exclude_featured: false
         exclude_future: false
         exclude_past: false
