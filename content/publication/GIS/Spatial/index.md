@@ -1,5 +1,5 @@
 ---
-title: "Underfished or unwanted? Much blame cast upon fisheries policy may be misguided"
+title: "Integrating participatory planning in the design of Belize’s marine replenishment zones"
 authors:
 - admin
 - Julie Robinson
@@ -67,5 +67,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

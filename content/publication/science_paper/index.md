@@ -11,7 +11,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2023"
+date: "2023-05-11T00:00:00Z"
 doi: "10.1126/science.adf5595"
 
 # Schedule page publish date (NOT publication's date).
@@ -70,5 +70,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
