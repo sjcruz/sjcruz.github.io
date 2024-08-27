@@ -7,7 +7,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015"
+date: "2015-10-01T00:00:00Z"
 doi: "10.13140/RG.2.2.18562.79044"
 
 # Schedule page publish date (NOT publication's date).
