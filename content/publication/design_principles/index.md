@@ -31,8 +31,7 @@ tags:
 featured: false
 
 # links:
-- label: "Spanish"
-  url: 'https://www.researchgate.net/publication/320719686_Principios_biofisicos_para_el_diseno_de_una_red_de_zonas_de_recuperacion_en_el_Sistema_Arrecifal_Mesoamericano'
+url_pdf: 'https://www.researchgate.net/publication/320719686_Principios_biofisicos_para_el_diseno_de_una_red_de_zonas_de_recuperacion_en_el_Sistema_Arrecifal_Mesoamericano'
 url_pdf: 'https://www.researchgate.net/publication/320720090_Biophysical_Principles_for_Designing_a_Network_of_Replenishment_Zones_for_the_Mesoamerican_Reef_System'
 url_code: ''
 url_dataset: ''
