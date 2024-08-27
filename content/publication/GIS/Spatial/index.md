@@ -8,8 +8,8 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2023-05-11T00:00:00Z"
-doi: "10.1126/science.adf5595"
+date: "2016"
+#doi: "10.1126/science.adf5595"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2016-05-11T00:00:00Z"
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://udwinprod-my.sharepoint.com/my?id=%2Fpersonal%2Fseleni%5Fudel%5Fedu%2FDocuments%2FPublications%2F2016%5FCruzetal%5Fparticipatoryplanning%2Epdf&parent=%2Fpersonal%2Fseleni%5Fudel%5Fedu%2FDocuments%2FPublications
+url_pdf: 'https://udwinprod-my.sharepoint.com/my?id=%2Fpersonal%2Fseleni%5Fudel%5Fedu%2FDocuments%2FPublications%2F2016%5FCruzetal%5Fparticipatoryplanning%2Epdf&parent=%2Fpersonal%2Fseleni%5Fudel%5Fedu%2FDocuments%2FPublications'
 #url_code: 'https://zenodo.org/records/7868122'
 #url_dataset: 'https://www.science.org/action/downloadSupplement?doi=10.1126%2Fscience.adf5595&file=science.adf5595_sm.pdf'
 url_poster: ''
