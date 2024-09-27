@@ -30,7 +30,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://drive.google.com/file/d/13OiViTmcQQqvC7bS3ruL_oOumiOBrg3Q/view?usp=drive_link
+url_pdf: https://drive.google.com/file/d/1Vv51I67sNvmQ0zXfrUN43lAF32BD3GGD/view?usp=drive_link
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 
