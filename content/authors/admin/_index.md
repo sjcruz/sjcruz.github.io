@@ -64,7 +64,7 @@ education:
     date_start:
     date_end: 2022
     summary: 
-  - area: Ma Environmantal Science and Management
+  - area: Ms Environmental Science and Management
     institution: University of California Santa Barbara
     date_start: 
     date_end: 2019

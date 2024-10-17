@@ -1,1 +1,1 @@
-test
+Test GPG signing
