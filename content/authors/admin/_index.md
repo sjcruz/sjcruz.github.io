@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: PhD
 
 # Organizations/Affiliations to display in Biography blox
 organizations: 
@@ -71,4 +71,8 @@ education:
     summary: 
 ---
 
-Welcome to my site! I am a PhD Candidate in the [Birkenbach-Oremus Lab](https://birkenbach-oremus-lab.github.io/website/) at the University of Delaware. My research focuses on the intersection of natural resource and development economics, climate change, and fisheries management. I use econometric techniques and bioeconomic modeling to explore human-ocean interactions in the face of climate change.
+Welcome to my site! I completed my PhD in the [Birkenbach-Oremus Lab](https://birkenbach-oremus-lab.github.io/website/) at the University of Delaware and will be graduating in May 2025. 
+
+I will join the Department of Marine and Coastal Environmental Science at Texas A&M University at Galveston as an Assistant Professor of Environmental Economics in August 2025.
+
+My research focuses on the intersection of natural resource and development economics, climate change, and fisheries management. I use econometric techniques and bioeconomic modeling to explore human-ocean interactions in the face of climate change.
