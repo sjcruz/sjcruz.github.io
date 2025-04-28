@@ -72,7 +72,7 @@ education:
 ---
 
 Welcome to my site! I completed my PhD in the [Birkenbach-Oremus Lab](https://birkenbach-oremus-lab.github.io/website/) at the University of Delaware and will be graduating in May 2025. 
-
+<br><br>
 I will join the Department of Marine and Coastal Environmental Science at Texas A&M University at Galveston as an Assistant Professor of Environmental Economics in August 2025.
-
+<br><br>
 My research focuses on the intersection of natural resource and development economics, climate change, and fisheries management. I use econometric techniques and bioeconomic modeling to explore human-ocean interactions in the face of climate change.
