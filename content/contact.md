@@ -1,8 +1,7 @@
 ---
 title: "Get in youch"
 cms_exclude: true
-
-view: citation
+type: widget_page
 ---
 For **prospective student** interested in joining my research group at **Texas A&M University at Galveston (TAMUG)**, I especially welcome applicants with **strong quantitative and programming backgrounds**.
 
@@ -15,7 +14,6 @@ Please include a **brief introduction** and the materials below:
 - **One-page statement** describing your research interests, prior experience, and why you’re a fit  
 - *Optional:* a **writing sample** (e.g., thesis, paper, or report)
 
----
 ## Programs & Useful Links
 
 - [TAMUG – Marine Resources Management Masters Program](https://marine.tamu.edu/academics/graduate-programs/masters-marine-resource-management.html)
