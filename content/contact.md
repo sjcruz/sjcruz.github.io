@@ -1,19 +1,9 @@
 ---
 title: "Get in Touch"
-type: "page"
-slug: "contact"
-summary: "Contact and opportunities for prospective students"
-featured: false
-cms_exclude: false
 
-banner:
-  caption: ""
-  image: ""
-
-aliases: ["/get-in-touch", "/contact-me"]
 ---
 
-If you are a **prospective student** interested in joining my research group at **Texas A&M University at Galveston (TAMUG)**, I work at the intersection of **environmental and resource economics**, **climate adaptation**, and **fisheries management**. I especially welcome applicants with **strong quantitative/econometric and programming backgrounds** and an interest in climate-ready fisheries and human–natural systems.
+**Prospective student** interested in joining my research group at **Texas A&M University at Galveston (TAMUG)**, I especially welcome applicants with **strong quantitative/econometric and programming backgrounds** and an interest in climate-ready fisheries and human–natural systems.
 
 **How to reach me:**  
 Email is the best first contact: [scruz@tamu.edu](mailto:scruz@tamu.edu).  
