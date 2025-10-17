@@ -1,6 +1,6 @@
 ---
 title: "Get in youch"
-cms_exclude: true
+
 ---
 For **prospective student** interested in joining my research group at **Texas A&M University at Galveston (TAMUG)**, I especially welcome applicants with **strong quantitative and programming backgrounds**.
 
