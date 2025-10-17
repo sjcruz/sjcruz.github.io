@@ -1,7 +1,7 @@
 ---
 title: "Get in Touch"
 cms_exclude: true
-type: landing
+type: "widget_page"
 ---
 
 **Prospective student** interested in joining my research group at **Texas A&M University at Galveston (TAMUG)**, I especially welcome applicants with **strong quantitative and programming backgrounds** and an interest in climate-ready fisheries and human–natural systems.
