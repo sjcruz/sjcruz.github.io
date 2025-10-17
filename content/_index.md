@@ -16,8 +16,8 @@ sections:
       text: " "
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: CV (updated 04/2025)
-        url: https://drive.google.com/file/d/1eT-tweXPPDtPmGBZuNisNNCQIv__yR2v/view?usp=drive_link
+        text: CV
+        url: https://drive.google.com/file/d/1jADWUyWoI7FEtj7WHq_XrkekUpwz83r6/view?usp=drive_link
     design:
       css_class: light
       background:

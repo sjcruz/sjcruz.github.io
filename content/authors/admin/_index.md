@@ -24,8 +24,8 @@ role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations: 
-  - name: Texas A&M University at Galveston
-    url: 
+  - name: Department of Marine & Coastal Environmental Science, College of Marine Sciences & Maritime Studies, Texas A&M University
+    url: https://marine.tamu.edu/academics/marine-coastal-environmental-science/index.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -52,7 +52,7 @@ education:
   - area: PhD Environmental Economics
     institution: University of Delaware
     date_start: 
-    date_end: 2025
+    date_end: 
     summary:
     button:
       text: 
@@ -60,12 +60,12 @@ education:
   - area: MSc Economics and Applied Econometrics
     institution: University of Delaware
     date_start:
-    date_end: 2022
+    date_end: 
     summary: 
   - area: Ms Environmental Science and Management
     institution: University of California Santa Barbara
     date_start: 
-    date_end: 2019
+    date_end: 
     summary: 
 ---
 
