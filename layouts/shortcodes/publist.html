@@ -1,40 +1,36 @@
 {{/* Usage:
    {{< publist section="working" >}}
    {{< publist section="published" >}}
+   Rule: "working" = has publication_types: ["working-paper"]; "published" = everything else.
 */}}
 
 {{- $section := .Get "section" | default "published" -}}
-{{- $all := (site.GetPage "section" "research").RegularPages -}}
+{{- $research := site.GetPage "section" "research" -}}
+{{- $all := cond $research $research.RegularPages site.RegularPages -}}
 
-{{- if eq $section "working" -}}
-  {{- $filtered := where $all "Params.publication_types" "intersect" (slice "working-paper") -}}
-  {{- if gt (len $filtered) 0 -}}
-  <ul>
-    {{- range $filtered.ByDate.Reverse -}}
+{{- /* Partition once */ -}}
+{{- $wp := where $all "Params.publication_types" "intersect" (slice "working-paper") -}}
+{{- $pubs := complement $all $wp -}}   {{/* complement(ALL, working) = non-working */}}
+
+{{- $list := cond (eq $section "working") $wp $pubs -}}
+
+{{- if gt (len $list) 0 -}}
+<ul>
+  {{- range $list.ByDate.Reverse -}}
+    {{/* Try theme citation partials first */}}
+    {{- if templates.Exists "partials/page_metadata/publication_citation" -}}
+      <li>{{ partial "page_metadata/publication_citation" . }}</li>
+    {{- else if templates.Exists "partials/li_publication" -}}
+      <li>{{ partial "li_publication" . }}</li>
+    {{- else -}}
       <li>
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         {{- with .Params.publication }} — <em>{{ . }}</em>{{ end -}}
         {{- if .Date }} ({{ .Date.Format "2006" }}){{ end -}}
       </li>
     {{- end -}}
-  </ul>
-  {{- else -}}
-  <p><em>No working papers yet.</em></p>
   {{- end -}}
-
+</ul>
 {{- else -}}
-  {{- $filtered := where $all "Params.publication_types" "intersect" (slice "working-paper") | complement $all -}}
-  {{- if gt (len $filtered) 0 -}}
-  <ul>
-    {{- range $filtered.ByDate.Reverse -}}
-      <li>
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        {{- with .Params.publication }} — <em>{{ . }}</em>{{ end -}}
-        {{- if .Date }} ({{ .Date.Format "2006" }}){{ end -}}
-      </li>
-    {{- end -}}
-  </ul>
-  {{- else -}}
-  <p><em>No publications yet.</em></p>
-  {{- end -}}
+<p><em>No entries yet.</em></p>
 {{- end -}}
