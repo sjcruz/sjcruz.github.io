@@ -1,5 +1,5 @@
 ---
-title: 'Selective harvesting under a changing climate'
+title: 'Timely policy responses can save fisheries from (some) temperature shocks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -31,7 +31,7 @@ doi: ''
 #publication: In *Hugo Blox Builder Conference*
 #publication_short: In *ICW*
 
-abstract: "Warming oceans threaten fishery productivity by altering growth, reproduction, and survival of temperature-sensitive species. While long-term impacts are well documented, the short-term effects of warming event characteristics—such as intensity, timing, and duration—on biological recovery and economic outcomes remain understudied. This study develops a bioeconomic model of the Delaware Bay blue crab fishery, integrating temperature-dependent population dynamics with fisher behavior to simulate the effects of short-term warming. Results show that summer warming above 6°C drives high mortality and slows stock recovery, while winter warming can accelerate growth and harvest. Policy simulations reveal trade-offs: full closures improve recovery but reduce profits, while size-based regulations maintain economic viability with smaller biological gains. These findings highlight the importance of timing in shaping climate responses and the need for adaptive, temperature-informed fishery management."
+abstract: "Marine heat extremes are intensifying globally, challenging fishery management systems designed around stable conditions. While biological effects of warming are well-documented, less is understood about when and how policy interventions can accelerate ecological recovery while minimizing economic losses. We develop a temperature-dependent bioeconomic framework that identifies thresholds and quantifies trade-offs between recovery and cost across more than 11,000 simulated warming and policy scenarios. Results reveal a critical `window of intervention' where policies effectively accelerate recovery, but beyond which ecological damage outweighs policy benefits. Within this window, protecting reproductive capacity through targeted harvest restrictions consistently outperforms broader closures while minimizing economic costs. The framework offers a systematic approach for designing adaptive, climate-ready management strategies that balance biological recovery with economic sustainability across temperature-sensitive systems. "
 
 
 # Summary. An optional shortened abstract.

@@ -20,25 +20,23 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations: 
-  - name: University of Delaware
+  - name: Texas A&M University at Galveston
     url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: envelope
-    url: 'mailto:seleni@udel.edu'
+    url: 'mailto:scruz@tamu.edu'
     label: Email me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=-WzkFMEAAAAJ&hl=en
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/seleni-cruz-64b3b391/
-  - icon: brands/x
-    url: https://twitter.com/SeleniCruz
+    url: https://www.linkedin.com/in/seleni-cruz-phd-64b3b391/
   - icon: brands/github
     url: https://github.com/sjcruz
  # - icon: academicons/orcid
@@ -71,8 +69,4 @@ education:
     summary: 
 ---
 
-Welcome to my site! I completed my PhD in the [Birkenbach-Oremus Lab](https://birkenbach-oremus-lab.github.io/website/) at the University of Delaware and will be graduating in May 2025. 
-<br><br>
-I will join the Department of Marine and Coastal Environmental Science at Texas A&M University at Galveston as an Assistant Professor of Environmental Economics in August 2025.
-<br><br>
-My research focuses on the intersection of natural resource and development economics, climate change, and fisheries management. I use econometric techniques and bioeconomic modeling to explore human-ocean interactions in the face of climate change.
+Welcome to my site! I am an environmental and resource economist studying how communities adapt to climate change through their interactions with natural resources. My work lies at the intersection of environmental, development, and fisheries economics, with a focus on the behavioral and policy dimensions of adaptation in resource-dependent settings. I use econometric and bioeconomic modeling approaches to examine how environmental variability and management policies shape economic decisions.
