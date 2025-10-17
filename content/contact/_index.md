@@ -1,7 +1,16 @@
 ---
 title: "Get in touch"
 
+
 ---
+
+<style>
+.article-container {
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+</style>
+
 For **prospective student** interested in joining my research group at **Texas A&M University at Galveston (TAMUG)**, I especially welcome applicants with **strong quantitative and programming backgrounds**.
 
 **How to reach me:**  
