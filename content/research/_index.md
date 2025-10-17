@@ -1,16 +1,14 @@
 ---
-title: ""
-type: widget_page
+title: "Research"
+type: "widget_page"    # enables Page Builder on this page
 
 sections:
   - block: collection
     title: "Working papers"
     content:
-      filters:
-        # Limit to your research folder so we don't pull in other content
-        folder: "research"
-        # Positive include: only items explicitly tagged working-paper
-        publication_type: ["working-paper"]
+      folder: "research"                 # your items live in content/research/*
+      page_type: ["publication"]         # render as publications
+      publication_type: ["working-paper"]# ONLY working papers
       count: 100
     design:
       view: citation
@@ -19,15 +17,15 @@ sections:
   - block: collection
     title: "Publications"
     content:
-      filters:
-        folder: "research"
-        # Positive include: list all *published* types you want shown
-        publication_type:
-          - "article-journal"
-          - "report"
-          - "technical-report"
-          - "paper-conference"
-          - "inproceedings"
+      folder: "research"
+      page_type: ["publication"]
+      # Explicit positive include for all *published* types
+      publication_type:
+        - "article-journal"
+        - "paper-conference"
+        - "inproceedings"
+        - "report"
+        - "technical-report"
       count: 200
     design:
       view: citation
