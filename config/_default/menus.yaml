@@ -13,12 +13,12 @@ main:
   - name: News
     url: /#news
     weight: 12
-#  - name: Projects
+  - name: Teaching
+    url: teaching/
+    weight: 40
+  #  - name: Projects
 #    url: projects/
 #    weight: 30
-- name: Teaching
-  url: teaching/
-  weight: 40
   #- name: CV
   #  url: experience/
   #  weight: 11
