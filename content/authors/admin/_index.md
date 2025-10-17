@@ -24,7 +24,11 @@ role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations: 
-  - name:  Department of Marine & Coastal Environmental Science\nCollege of Marine Sciences & Maritime Studies\nTexas A&M University
+  - name: Department of Marine & Coastal Environmental Science
+    url: https://marine.tamu.edu/academics/marine-coastal-environmental-science/index.html
+  - name: College of Marine Sciences & Maritime Studies
+    url: https://marine.tamu.edu/academics/marine-coastal-environmental-science/index.html
+  - name: Texas A&M University
     url: https://marine.tamu.edu/academics/marine-coastal-environmental-science/index.html
 
 # Social network links
