@@ -1,0 +1,40 @@
+{{/* Usage:
+   {{< publist section="working" >}}
+   {{< publist section="published" >}}
+*/}}
+
+{{- $section := .Get "section" | default "published" -}}
+{{- $all := (site.GetPage "section" "research").RegularPages -}}
+
+{{- if eq $section "working" -}}
+  {{- $filtered := where $all "Params.publication_types" "intersect" (slice "working-paper") -}}
+  {{- if gt (len $filtered) 0 -}}
+  <ul>
+    {{- range $filtered.ByDate.Reverse -}}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{- with .Params.publication }} — <em>{{ . }}</em>{{ end -}}
+        {{- if .Date }} ({{ .Date.Format "2006" }}){{ end -}}
+      </li>
+    {{- end -}}
+  </ul>
+  {{- else -}}
+  <p><em>No working papers yet.</em></p>
+  {{- end -}}
+
+{{- else -}}
+  {{- $filtered := where $all "Params.publication_types" "intersect" (slice "working-paper") | complement $all -}}
+  {{- if gt (len $filtered) 0 -}}
+  <ul>
+    {{- range $filtered.ByDate.Reverse -}}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{- with .Params.publication }} — <em>{{ . }}</em>{{ end -}}
+        {{- if .Date }} ({{ .Date.Format "2006" }}){{ end -}}
+      </li>
+    {{- end -}}
+  </ul>
+  {{- else -}}
+  <p><em>No publications yet.</em></p>
+  {{- end -}}
+{{- end -}}

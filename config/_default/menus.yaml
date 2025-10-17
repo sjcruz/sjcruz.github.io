@@ -10,8 +10,8 @@ main:
   - name: Research
     url: /research/
     weight: 20
-  - name: Students
-    url: /students/
+  - name: Get in youch
+    url: /contact/
     weight: 30
   #  - name: Projects
 #    url: projects/
