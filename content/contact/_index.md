@@ -6,7 +6,7 @@ title: "Get in touch"
 
 <style>
 .article-container {
-  font-size: 0.95rem;
+  font-size: 0.5 rem;
   line-height: 1.6;
 }
 </style>
