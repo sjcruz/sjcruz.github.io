@@ -36,7 +36,7 @@ sections:
       title: Working papers
       filters:
         folders:
-          - publication
+          - research
         featured_only: true
     design:
       view: article-grid
@@ -46,7 +46,7 @@ sections:
       title: Recent Publications
       filters:
         folders:
-          - publication
+          - research
         exclude_featured: TRUE
       view: article-grid
       columns: 2
