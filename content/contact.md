@@ -1,10 +1,10 @@
 ---
-title: "Get in Touch"
+title: "Get in youch"
 cms_exclude: true
-type: "widget_page"
----
 
-**Prospective student** interested in joining my research group at **Texas A&M University at Galveston (TAMUG)**, I especially welcome applicants with **strong quantitative and programming backgrounds** and an interest in climate-ready fisheries and human–natural systems.
+view: citation
+---
+For **prospective student** interested in joining my research group at **Texas A&M University at Galveston (TAMUG)**, I especially welcome applicants with **strong quantitative and programming backgrounds**.
 
 **How to reach me:**  
 Email is the best first contact: [scruz@tamu.edu](mailto:scruz@tamu.edu).  
