@@ -1,0 +1,7 @@
+/* Normalize typography for regular content pages */
+.article-container,
+.page-body,
+.prose {
+  font-size: 0.95rem;
+  line-height: 1.6;
+}

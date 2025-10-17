@@ -3,10 +3,16 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+customCSS:
+  - "css/custom.css"
+
 # Appearance
 appearance:
   mode: system
   color: emerald
+  customCSS:
+    - "css/custom.css"
+
 
 # SEO
 marketing:
