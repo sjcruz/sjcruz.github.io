@@ -1,6 +1,10 @@
 ---
-title: "Research"
-type: "widget_page"    # enables Page Builder on this page
+title: 
+
+cms_exclude: true 
+
+# View. 
+view: citation
 
 sections:
   - block: collection
