@@ -1,18 +1,19 @@
 ---
-title: 
+title: "Research"
+type: widget_page          # enables Page Builder
+cms_exclude: true
 
-cms_exclude: true 
-
-# View. 
-view: citation
+# Everything under /research renders as a publication (citation view works)
+cascade:
+  page_type: publication
 
 sections:
   - block: collection
     title: "Working papers"
     content:
-      folder: "research"                 # your items live in content/research/*
-      page_type: ["publication"]         # render as publications
-      publication_types: ["working-paper"]# ONLY working papers
+      folder: "research"
+      page_type: ["publication"]
+      publication_type: ["working-paper"]     # <-- singular key
       count: 100
     design:
       view: citation
@@ -23,8 +24,8 @@ sections:
     content:
       folder: "research"
       page_type: ["publication"]
-      # Explicit positive include for all *published* types
-      publication_types:
+      # Explicit include of published types
+      publication_type:
         - "article-journal"
         - "paper-conference"
         - "inproceedings"
